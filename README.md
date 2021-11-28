@@ -6,7 +6,7 @@
   <a href="https://gitlab.retis.santannapisa.it/r.andreoli">GitLab</a>
 </p>
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h3> About Me </h3>
 
 * 📌 I'm based in Pisa, Tuscany, Italy  
 * :school: I'm a PhD Student in Computer Engineering working on predictable performance for Cloud Computing technologies
