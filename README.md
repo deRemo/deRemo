@@ -12,7 +12,7 @@
 * :school: I'm a PhD Student in Computer Engineering working on predictable performance for Cloud Computing technologies
 * :mortar_board: Most of my research work is on <a href="https://gitlab.retis.santannapisa.it/r.andreoli">GitLab</a>, give it a look!
 * :tada: My first scientific paper won a Best Student Paper award at <a href="https://closer.scitevents.org/?y=2021">CLOSER 2021</a>
-* :tada: Ranked \#1 in the international contest for admission to the Sant'Anna School of Advanced Studies (PhD scholarship)
+* :tada: Ranked \#1 in the international contest for admission to the <a href="https://en.wikipedia.org/wiki/Sant%27Anna_School_of_Advanced_Studies">Sant'Anna School of Advanced Studies</a> (PhD scholarship)
 * 🦸‍♂️ I'm the co-founder of <a href="https://www.superheroesvalley.fun/">SuperHeroesValley</a>, the missing bridge between italian universities and big tech companies
 
 <!--
