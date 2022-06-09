@@ -13,7 +13,7 @@
 * :mortar_board: Most of my research work is on <a href="https://gitlab.retis.santannapisa.it/r.andreoli">GitLab</a>, give it a look!
 * :tada: My first scientific paper won a Best Student Paper award at <a href="https://closer.scitevents.org/?y=2021">CLOSER 2021</a>
 * :tada: Ranked \#1 in the international contest for admission to the <a href="https://en.wikipedia.org/wiki/Sant%27Anna_School_of_Advanced_Studies">Sant'Anna School of Advanced Studies</a> (PhD scholarship)
-* 🦸‍♂️ I co-founded <a href="https://www.superheroesvalley.fun/">SuperHeroesValley</a>, the missing bridge between italian universities and big tech companies (+1400 members!)
+* 🦸‍♂️ I co-manage <a href="https://www.superheroesvalley.fun/">SuperHeroesValley</a> community, the missing bridge between italian universities and big tech companies (+1400 members!)
 
 <!--
 **deRemo/deRemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
