@@ -10,10 +10,11 @@
 
 * 📌 I'm based in Pisa, Tuscany, Italy  
 * :school: I'm a PhD Student in Computer Science working on efficient VM/Container orchestration in Cloud
-* :mortar_board: Most of my research work is on <a href="https://gitlab.retis.santannapisa.it/r.andreoli">GitLab</a>, give it a look!
+* :school: I have been a visiting researcher at <a href=https://en.wikipedia.org/wiki/University_of_Melbourne>University of Melbourne</a> and <a href="https://en.wikipedia.org/wiki/Fermilab">Fermilab</a>
+* :mortar_board: Some of my research work is on <a href="https://gitlab.retis.santannapisa.it/r.andreoli">GitLab</a>, give it a look!
 * 🔭 I'm the primary maintainer of <a href="https://github.com/Cloudslab/cloudsim">CloudSim</a> (version 7), the most famous simulator for evaluating resource management techniques in cloud infrastructures
-* :tada: My first scientific paper won a Best Student Paper award at <a href="https://closer.scitevents.org/?y=2021">CLOSER 2021</a>
-* :tada: Ranked \#1 in the international contest for admission to the <a href="https://en.wikipedia.org/wiki/Sant%27Anna_School_of_Advanced_Studies">Sant'Anna School of Advanced Studies</a> (PhD scholarship)
+* 🥇 My first scientific paper won a Best Student Paper award at <a href="https://closer.scitevents.org/?y=2021">CLOSER 2021</a>
+* 🥇 Ranked \#1 in the international contest for admission to the <a href="https://en.wikipedia.org/wiki/Sant%27Anna_School_of_Advanced_Studies">Sant'Anna School of Advanced Studies</a> (PhD scholarship)
 * 🦸‍♂️ I co-manage <a href="https://superherovalley.fun/">SuperheroValley</a> community, the missing bridge between italian universities and big tech companies (+1400 members!)
 
 <!--
