@@ -9,7 +9,8 @@
 <h3> About Me </h3>
 
 * 📌 I'm based in Pisa, Tuscany, Italy  
-* :school: I'm a PhD Student in Computer Science working on efficient VM/Container orchestration in Cloud
+* :school: I'm a PhD Student in Computer Science at <a href="https://www.santannapisa.it/en">Sant'Anna School of Advanced Studies</a>, working on efficient VM/Container orchestration in Cloud
+* :school: I'm a member of <a href="https://retis.santannapisa.it/">ReTiS Lab</a>, leading research lab in the area of real-time systems and authors of the <a href="https://man7.org/linux/man-pages/man7/sched.7.html">SCHED_DEADLINE</a> scheduling policy within Linux Kernel
 * :school: I have been a visiting researcher at <a href=https://en.wikipedia.org/wiki/University_of_Melbourne>University of Melbourne</a> and <a href="https://en.wikipedia.org/wiki/Fermilab">Fermilab</a>
 * :mortar_board: Some of my research work is on <a href="https://gitlab.retis.santannapisa.it/r.andreoli">GitLab</a>, give it a look!
 * 🔭 I'm the primary maintainer of <a href="https://github.com/Cloudslab/cloudsim">CloudSim</a> (version 7), the most famous simulator for evaluating resource management techniques in cloud infrastructures
