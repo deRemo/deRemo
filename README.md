@@ -8,15 +8,17 @@
 
 <h3> About Me </h3>
 
-* 📌 I'm based in Pisa, Tuscany, Italy  
-* :school: I'm a PhD Student in Computer Science at <a href="https://www.santannapisa.it/en">Sant'Anna School of Advanced Studies</a>, working on efficient VM/Container orchestration in Cloud
-* :school: I'm a member of <a href="https://retis.santannapisa.it/">ReTiS Lab</a>, leading research lab in the area of real-time systems and authors of the <a href="https://man7.org/linux/man-pages/man7/sched.7.html">SCHED_DEADLINE</a> scheduling policy within the Linux kernel
-* :school: I have been a visiting researcher at <a href=https://en.wikipedia.org/wiki/University_of_Melbourne>University of Melbourne</a> and <a href="https://en.wikipedia.org/wiki/Fermilab">Fermilab</a>
+* 📌 I'm based in Pisa, Tuscany, Italy
+* 🧑‍💼 I'm a software engineer on the Serverless Compute Fabric team at <a href="https://aws.amazon.com/">AWS</a>, the team responsible for delivering AWS Firecracker-based microVMs to power all AWS serverless services (e.g. Lambda, Fargate)
+
+* :school: I'm a PhD Student in Computer Science at <a href="https://www.santannapisa.it/en">Sant'Anna School of Advanced Studies</a>, working on efficient VM/Container orchestration in distributed infrastructures. Currently, I'm wrapping up and awaiting for my PhD thesis defense 🤞
+* :school: I'm a former member of <a href="https://retis.santannapisa.it/">ReTiS Lab</a>, leading research lab in the area of real-time systems and authors of the <a href="https://man7.org/linux/man-pages/man7/sched.7.html">SCHED_DEADLINE</a> scheduling policy within the Linux kernel
+* :school: I have been a visiting researcher at <a href=https://en.wikipedia.org/wiki/University_of_Melbourne>University of Melbourne</a> and <a href="https://en.wikipedia.org/wiki/Fermilab">Fermilab</a> in 2024
 * :mortar_board: Some of my research work is on <a href="https://gitlab.retis.santannapisa.it/r.andreoli">GitLab</a>, give it a look!
 * 🔭 I'm the primary maintainer of <a href="https://github.com/Cloudslab/cloudsim">CloudSim</a> (version 7), the most famous simulator for evaluating resource management techniques in cloud infrastructures
 * 🥇 My first scientific paper won a Best Student Paper award at <a href="https://closer.scitevents.org/?y=2021">CLOSER 2021</a>
 * 🥇 Ranked \#1 in the international contest for admission to the <a href="https://en.wikipedia.org/wiki/Sant%27Anna_School_of_Advanced_Studies">Sant'Anna School of Advanced Studies</a> (PhD scholarship)
-* 🦸‍♂️ I co-manage <a href="https://superherovalley.fun/">SuperheroValley</a> community, the missing bridge between italian universities and big tech companies (+1400 members!)
+* 🦸‍♂️ I co-manage <a href="https://superherovalley.fun/">SuperheroValley</a> community, the missing bridge between italian universities and big tech companies (+2000 members!)
 
 <!--
 **deRemo/deRemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
