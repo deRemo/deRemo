@@ -8,7 +8,7 @@
 
 <h3> About Me </h3>
 
-* 📌 I'm based in Pisa, Tuscany, Italy
+* 📌 I'm based in Dublin, Ireland
 * 🧑‍💼 I'm a software engineer on the Serverless Compute Fabric team at <a href="https://aws.amazon.com/">AWS</a>, the team responsible for delivering AWS Firecracker-based microVMs to power all AWS serverless services (e.g. Lambda, Fargate)
 
 * :school: I'm a PhD Student in Computer Science at <a href="https://www.santannapisa.it/en">Sant'Anna School of Advanced Studies</a>, working on efficient VM/Container orchestration in distributed infrastructures. Currently, I'm wrapping up and awaiting for my PhD thesis defense 🤞
