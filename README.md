@@ -9,7 +9,7 @@
 <h3> About Me </h3>
 
 * 📌 I'm based in Dublin, Ireland
-* 🧑‍💼 I'm a Software Engineer @ <a href="https://aws.amazon.com/">AWS</a> in the team responsible for delivering and orchestrating the Firecracker-based microVMs that power the Lambda service
+* 🧑‍💼 I'm a Software Engineer @ <a href="https://aws.amazon.com/">Amazon Web Services</a> in the team responsible for delivering and orchestrating the Firecracker-based microVMs that power the Lambda service
 
 * :school: I'm a PhD Student in Computer Science at <a href="https://www.santannapisa.it/en">Sant'Anna School of Advanced Studies</a>, working on efficient VM/Container orchestration in distributed infrastructures. Currently, I'm wrapping up and awaiting for my PhD thesis defense 🤞
 * :school: I'm a former member of <a href="https://retis.santannapisa.it/">ReTiS Lab</a>, leading research lab in the area of real-time systems and authors of the <a href="https://man7.org/linux/man-pages/man7/sched.7.html">SCHED_DEADLINE</a> scheduling policy within the Linux kernel
