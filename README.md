@@ -18,7 +18,7 @@
 * 🔭 I'm the primary maintainer of <a href="https://github.com/Cloudslab/cloudsim">CloudSim</a> (version 7), the most famous simulator for evaluating resource management techniques in cloud infrastructures
 * 🥇 My first scientific paper won a Best Student Paper award at <a href="https://closer.scitevents.org/?y=2021">CLOSER 2021</a>
 * 🥇 Ranked \#1 in the international contest for admission to the <a href="https://en.wikipedia.org/wiki/Sant%27Anna_School_of_Advanced_Studies">Sant'Anna School of Advanced Studies</a> (PhD scholarship)
-* 🦸‍♂️ I co-manage <a href="https://superherovalley.fun/">SuperheroValley</a> community, the missing bridge between italian universities and big tech companies (+2000 members!)
+* 🦸‍♂️ I co-manage <a href="https://superherovalley.fun/">SuperheroValley</a> community, the missing bridge between italian universities and big tech companies (+2000 members!). More than 100 members landed internships or full-time jobs thanks to our community effort
 
 <!--
 **deRemo/deRemo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
