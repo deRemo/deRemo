@@ -11,9 +11,9 @@
 * 📌 I'm based in Dublin, Ireland
 * 🧑‍💼 I'm a Software Engineer @ <a href="https://aws.amazon.com/">Amazon Web Services</a> in the team responsible for delivering and orchestrating the Firecracker-based microVMs that power the Lambda service
 
-* :school: I'm a PhD Student in Computer Science at <a href="https://www.santannapisa.it/en">Sant'Anna School of Advanced Studies</a>, working on efficient VM/Container orchestration in distributed infrastructures. Currently, I'm wrapping up and awaiting for my PhD thesis defense 🤞
+* :school: I have a PhD in Computer Science from <a href="https://www.santannapisa.it/en">Sant'Anna School of Advanced Studies</a>, obtained with honors. I worked on efficient VM/Container orchestration for real-time services in distributed infrastructures, in collaboration with <a href="https://www.ericsson.com/en">Ericsson Research</a> and under the supervision of Professor <a href="https://retis.santannapisa.it/~tommaso/eng/index.html">Tommaso Cucinotta</a>.
 * :school: I'm a former member of <a href="https://retis.santannapisa.it/">ReTiS Lab</a>, leading research lab in the area of real-time systems and authors of the <a href="https://man7.org/linux/man-pages/man7/sched.7.html">SCHED_DEADLINE</a> scheduling policy within the Linux kernel
-* :school: I have been a visiting researcher at <a href=https://en.wikipedia.org/wiki/University_of_Melbourne>University of Melbourne</a> and <a href="https://en.wikipedia.org/wiki/Fermilab">Fermilab</a> in 2024
+* :school: I have been a visiting researcher at <a href=https://en.wikipedia.org/wiki/University_of_Melbourne>University of Melbourne</a> in 2024, under the supervision of Distinguished Professor <a href="https://en.wikipedia.org/wiki/Rajkumar_Buyya">Rajkumar Buyya</a>.
 * :mortar_board: Some of my research work is on <a href="https://gitlab.retis.santannapisa.it/r.andreoli">GitLab</a>, give it a look!
 * 🔭 I'm the primary maintainer of <a href="https://github.com/Cloudslab/cloudsim">CloudSim</a> (version 7), the most famous simulator for evaluating resource management techniques in cloud infrastructures
 * 🥇 My first scientific paper won a Best Student Paper award at <a href="https://closer.scitevents.org/?y=2021">CLOSER 2021</a>
